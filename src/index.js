@@ -1,5 +1,5 @@
 import { PDFDocument, StandardFonts } from 'pdf-lib';
-/ NOTE:
+// NOTE:
 // This file is based on your current worker structure.
 // It adds a new API route that accepts 2 PDFs + email HTML,
 // merges them into one PDF, uploads that merged PDF to Flow,
